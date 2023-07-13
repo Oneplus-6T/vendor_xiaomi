@@ -828,6 +828,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libbtconfigstore \
+    libplatformconfig \
     CneApp \
     IWlanService \
     SoterService \
